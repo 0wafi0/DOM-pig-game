@@ -3,8 +3,6 @@ https://0wafi0.github.io/DOM-pig-game/
 
 Simple dice game - with the intention of practicing dom manipulation
 
-The aim of this simple game is to familiarize myself with Dom manipulation a bit more.
-
 GAME RULES:
 
 - The game has 2 players, playing in rounds
