@@ -1,7 +1,7 @@
 # DOM-pig-game
 https://0wafi0.github.io/DOM-pig-game/
 
-Simple dice game - with the intention of practicing dom manipulation
+Simple dice game - Meant to remind myself of javascript basics
 
 GAME RULES:
 
